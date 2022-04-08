@@ -1,0 +1,10 @@
+.erlang.mk
+.gen_errand.plt
+*.d
+deps
+ebin
+ebin/test
+ebin/*.beam
+logs
+test/*.beam
+_build

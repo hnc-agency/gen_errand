@@ -1,0 +1,11 @@
+{
+	application,
+	'gen_errand',
+	[
+		{description, "Generic errand behavior"},
+		{vsn, "0.0.1"},
+		{modules, ['gen_errand']},
+		{applications, [kernel, stdlib]},
+		{licenses, ["MIT"]}
+	]
+}.
